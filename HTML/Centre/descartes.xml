@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE module SYSTEM "../presentation.dtd">
+
+<presentation>
+<slide type="title">
+<title>Dr. Peter Bradley</title>
+<text>Descartes' argument from language, Alan Turing, and the computational theory of mind.
+</text>
+</slide>
+<slide type="quote">
+<title>Reply to Henry More, P278</title>
+<img>Library/People/descartes.jpg</img>
+<text>
+Nevertheless it has never been observed that any brute beast arrived at such perfection that it could use true speech, that is, that it indicated by words or signs something that can be ascribed to thought alone, and not to a natural impulse.  For speech is the only certain sign of thought concealed in the body, and all men, even the stupidest and most insane, make use of it, but not any brute.  Therefore, this can be taken to be the true diffentia between man and brutes (Reply to Henry More, S5)
+</text>
+</slide>
+<slide type="quote">
+<title>Methods, Part 5, P46</title>
+<img>library/People/descartes.jpg</img>
+<text>[in looking at the body] I found there precisely all those things that can be in us without our thinking about them, and hence, without our soul's contributing to them, that is to say, that part distinct from the body of which it has been said previously that its nature is only to think.  And these are all the same features in which one can say that animals lacking reason resemble us.  But I could not on that account find there any of those functions, which, being dependent on thought, are the only ones that belong to us as men, although I did find them all later on, once I had supposed God created a rational soul and joined it to this body in particular manner that I described.
+</text>
+</slide>
+<slide type="basic">
+<title>Note:</title>
+<text>The body, on it's own, can explain everything we do except that which makes us 'rational' animals: thought...
+</text>
+</slide>
+<slide type="quote">
+<title>Methods, Part 5, P56</title>
+<img>Library/People/descartes.jpg</img>
+<text>...if there were such machines having the organs and the shape of a monkey or of some other animal that lacked reason, we would have no way of recognizing that they were not entirely of the same nature as these animals; where as, if there were any such machines that bore a resemblance to our bodies and imitated our actions as far as this is practically feasible, we would always have two very certain means of recognizing that they were not at all, for that reason, true men.  The first is that they could never use words or other signs, or put them together as we do in order to declare our thoughts to others.  For one can well conceive of a machine being so made that it utters words, and even that it utters words appropriate to the bodily actions that will cause some change in its organs... But it could not arrange its words differently so as to respond to the sense of all that will be said in its presence, as even the dullest men can do. 
+</text>
+</slide>
+<slide type="quote">
+<title>Methods, Part 5, P57</title>
+<img>Library/People/descartes.jpg</img>
+<text>Now by these two means one can also know the difference between men and beasts. For it is rather remarkable that there are no men so dull and so stupid (excluding not even the insane), that they are incapable of arranging various words together and of composing from them a discourse by means of which they might make their thoughts understood.
+</text>
+</slide>
+
+<slide type="quote">
+<title>The World, Ch 18</title>
+<img>Library/People/descartes.jpg</img>
+<text>[after explaining the fluid theory of the senses] ...This is similar to what you may have seen in the grottos and fountains of the royal gardens, that the mere force with which the water moves as it emerges fro the spring is enough to move the various machines, and even to make them play on certain instruments, or utter words, according to the different arrangement of the tubes through which the wather is conducted.
+And, indeed, the nerves of the machine I am descriving to you make very well be compared to the tubes of teh machinery of these fountains, its muscles and its tendons to various other devices and springs that server to move them, its animal spirits to the water that sets them in motion, of which the heart is the source and the cavities of the brain the outlets. ...And finally, when the rational soul is present in this machine, it will have its principal seat in the brain, and it will be there like the foutain keeper who must be stationed at the openings where all the tubes of these machines are discharged, if he wants to start, stop or change their movements in any way.</text>
+</slide>
+<slide type="image">
+<title>Jacques de Vaucanson</title>
+	<img x="-150">Library/images/Automata/Duck.jpg</img>
+</slide>
+<slide type="quote">
+<title>The World, Ch 18</title>
+<img>Library/People/descartes.jpg</img>
+<text>I should like you to consider all the functions I have attributed to this machine--such as the digestion of food, the beating of the heart and arteries, the nourishment and growth of the members, respiration, walking and sleeping; the reception of light, sounds, odors, tastes, heat and other such qualities by the external sense organs; the impression of their ideas on the organs of the common sense and the imagination; the retention of the impression of the ideas upon memory; the internal motions of the appetites and passions; and finally, the external motions of all the members, which so suitably follow the actions of objects that present themselves to sense as the passions and impressions found in memory, that they imitate in the most perfect manner possible those of a real man. I sould like you to consider that all these functions follow naturally in this machine simply from the arrangement of its organs, no more or less than the movements of a clock or other automaton follow from that of its counterweights and wheels, so that it is not at all necessary for their explanation to conceive in it any other soul, vegetative or sensitive, or any other principle of motion and life other than its blood and its spirits, set in motion by the heat of the fire that burns continually in its hear, and which is of a nature no different from all fires in inanimate bodies.
+</text>
+</slide>
+<slide type="quote">
+<title>The World, Ch 18</title>
+<img>Library/People/descartes.jpg</img>
+<text>And, indeed, the nerves of the machine I am descriving to you make very well be compared to the tubes of the machinery of these fountains, its muscles and its tendons to various other devices and springs that server to move them, its animal spirits to the water that sets them in motion, of which the heart is the source and the cavities of the brain the outlets. ...And finally, when the rational soul is present in this machine, it will have its principal seat in the brain, and it will be there like the foutain keeper who must be stationed at the openings where all the tubes of these machines are discharged, if he wants to start, stop or change their movements in any way.</text>
+</slide>
+<slide type="basic">
+<title>Descartes' claims</title>
+<text>(1) That being rational is the defining feature of being human ('rational animal')
+(2) That all but rationality can be explained in perfectly physical, mechanistic terms
+(3) That animals are so explained
+(4) that animals (and by extension, mechanistic machines) could never use words BUT
+(5) it is not that they cannot make the sounds.  It is that ?WHAT?
+</text>
+</slide>
+<slide type="basic">
+<title>An aside: </title>
+<text>what aspects of language? or thought?
+The key passages are:
+(A) Reply to More: "...that it indicated by words or signs something that can be ascribed to thought alone."
+(B) Methods: "[beasts] could never use words or other signs, or put them together as we do in order to declare our thoughts to others... it could not arrange its words differently..."
+
+(A) things that depend on thought alone: infinity, perfection = ontological argument. "Thoughts of infinity"
+(B) Structure of language = 'productivity' "Infinity of Thoughts"</text>
+</slide>
+<slide type="basic">
+<title>Descartes' Argument</title>
+<text>(1) No finite automata can create infinite things - either thoughts of infinity or an infinite set of thoughts.
+(2) bodies (and animals) are finite automata.
+(3) Minds know about infinity, and can create an infinite set of thoughts (through language).
+(4) Therefore, minds are not finite automata.
+(5) Therefore, minds are not bodies.
+</text>
+</slide>
+<slide type="quote">
+<title>de La Mettrie</title>
+	<img>Library/People/deLaMettre.jpg</img>
+	<text>Among animals, some learn to speak and sign; they remember tunes, and strike the notes as exactly as a musician.  Others, for instance the ape, show more intelligence, and yet cannot learn music.  What is the reasn for this, except some defect in the organs of speech?  But is this defect so essential to the structure that it could never be remedied?  In a word, would it be absolutely impossible to teach the ape a language?  I do not think so.
+	...It [thus] appears that there is but one [type of organization] in the universe, and that man is the most perfect [example].  He is to the ape, and to the most intelligent animals, as the planetary pendulum of Huyghens is to a watch of Julien Lerow.  More instruments, more wheels and more springs were necessary to mark the movements of the planets than to mark or strike the house; and Vuacanson, who needed more skill for making his flute player than for making his duck, would have need more to make a talking man, a mecahnism no longer to be regarded as impossible...
+	...I believe that thought is so little incompatible with organized matter, that it seems to be one of its properties on a par with electrictiy, the faculty of motion, impenetrability, extension, etc.
+	</text>
+</slide>
+<slide type="basic">
+<title>de La Mettrie's Claim: </title>
+<text>That language ability is a difference of scale, not of kind.
+	Why?
+Well, there is no argument for that - just an assertion that it must be, given his mechanistic world view.
+Descartes and de La Mettrie agree on much: But where one is Modus Tollens, the other is Modus Ponens:</text>
+</slide>
+<slide type="argument">
+<title>Descartes:</title>
+<img x="-400">Library/People/descartes.jpg</img>
+<argument>
+<p1>If humans are mechanical, then language must be reproducable by mechanisms</p1>
+<p2>Language is not reproducable by a mechanism</p2>
+<c>Humans are not mechanical</c>
+</argument>
+</slide>
+<slide type="argument">
+<title>de La Mettrie:</title>
+<img x="-400">Library/images/manAMachine.jpg</img>
+<argument>
+<p1>If humans are mechanical, then language must be reproducable by mechanisms</p1>
+<p2>Humans are mechanical</p2>
+<c>Language must be reproducable by mechanism.</c>
+</argument>
+</slide>
+<slide type="quote">
+<title>Hobbes</title>
+<img>Library/People/hobbes.jpg</img>
+<text>Nature (the art whereby God hath made and governs the world is by the art of man, as in many other things, so in this also imitated, that it can make an artificial animal.  For seeing life is but a motion of limbs, the beginning where of is in some prinicpal part within, why may we not say that all automata (englins that move themselves by springs and wheels as doth a watch) have an artifical life?  For what is the heart, but a spring' and the nerves, but so many strings; and the joints, but so many wheels, giving motion to the whole body, such as was intended by the artificer.
+--Leviathan, opening of the Introduction.
+</text>
+</slide>
+<slide type="basic">
+<title>Hobbes</title>
+<text>Part I, Ch III: on whether thoughts are causally determined by previous thoughts.
+Part I, Ch IV: on Speech
+Part I, Ch V: On rationality
+
+Note: Leviathan, Ch IV, S7 contains his analysis of the origin of thoughts of infinity.</text>
+</slide>
+<slide type="quote">
+<title>Hobbes</title>
+<img>Library/People/hobbes.jpg</img>
+<text>I have said before [ch 2] that a man did excel all other animals in this faculty: that when he concieved anything whatsoever, he was apt to inquire the consequences of it, and what effects he could do with it.  And now I add this other degree of the same excellence: that he can by words reduce the consequences he finds to general rules, called theorems, or aphorisms; that is, he can reason, or rechon, not only in number, but in all other things whereof one may be *added unto* or *subtracted from* another.
+--Leviathan, Ch v, S6
+</text>
+</slide>
+<slide type="quote">
+<title>Locke</title>
+<img>Library/People/locke.jpg</img>
+<text>[Sensation and Reflection alone], when we have taken a full survey of them, and their several modes, we shall find to contain all our whole stock of ideas; and that we nothing in our minds which did not come in one of these two ways. Let any one examine his own thoughts, and thoroughly search into his understanding; and then let him tell me, wheterh all the original ideas he hjas there, are any other than of the objects of his senses, or of the operations of his mind, considered ax objects of his reflection.  And how great a mass of knowledge soever he imagines to be lodged there, he will, upon taking a strict view, see that he has not any idea in his mind but what one of these two have imprinted; -thought perhaps, with infinite variety compounded and enlarged by the understanding, as we shall see hereafter.
+
+Note: Locke's answer on how ideas are 'compounded' isn't entirely clear. See Ch xiii for the beginning of the answer. His answer to the Cartesian argument from thoughts of inifinity, in Book 2, Ch17 is clear. I suspect that, unlike Hobbes, Locke didn't grasp the depth of the 'infinity of thoughts' argument]
+</text>
+</slide>
+<slide type="quote">
+<title>Hume</title>
+<img>Library/People/hume.jpg</img>
+<text>As all simple ideas may be separated by the imagination, and may be united again in what form it pleases, nothing wou'd be more unaccountable than the operations of that faculty, were it not guided by some universal principles, which render it, in some measure, uniform with itself in all times and places.  Were ideas entirely loose and unconnected, chance alone wou'd join them; and 'tis impossible the same simple ideas should fall regularly into complex ones (as they commonly do) without some bond of union among them, some associating quality, by which one idea naturally introuces another.  This unititing principle amoung ideas is not to be consider'd as an inseparable connexion... but wr are only to regard it as a gentile force, which commonly prevails, and is the cause of why, amoung other things, languages so nearly correspond to each other; nature in a manner pointing out to every one those simple ideas, which are most property to be united into a complex one.
+The qualities, from which this association arises, and by which the mind is after this manner convey'd from one idea to another, are three, viz. RESEMBLANCE, CONTIGUITY in time or place and CAUSE and EFFECT. --Treatise, Part 1, S IV
+</text>
+</slide>
+<slide type="quote">
+<title>Hume</title>
+<img>Library/People/hume.jpg</img>
+<text>It is evident that there is a principle of connexion between the different thoughts or ideas of the mind, and that, in the appearance to the memory or imagination, they introduce each other with a certain degree of method or regularity...
+...Amoung different lnaguages, even where we cannot suspect the least connexion or communication, it is found, that the words, expressive of ideas, the most compounded, do yet nearly correspond to each other: a certain proof that the simple ideas, comprehended in the compound onces, were bound together by some universal principle, which had an equal influence on all mankind.
+
+Note: see Enquiry, S2 P14 for his response on ideas of infinity.
+</text>
+</slide>
+
+<slide type="quote">
+<title>Boole</title>
+<img>Library/People/boole.jpg</img>
+<text>The design of the following treatise is to investigate the fundamental laws of those operations of the mind by which reasoning is performed; to give expression top them in the symbolic language of a Calculus, and upon this foundation to establish the science of Logic and construct its method; to make that method itself the basis of a general method for the application of the mathematical doctrine of Probabilities; and, finally, to collect from the various elements of truth brought to view in the course of these inquiries some probablie intimations concerning the nature and constitution of the human mind. -- Laws of Thought (1854) Ch1 Para1</text>
+</slide>
+<slide type="quote">
+<title>Darwin</title>
+<img>Library/People/darwin.jpg</img>
+<text>It has been asserted that man alone is capable of progressive improvement; that he alone makes use of tools or fire, domesticates other animals, or possesses property; that no animal has the power of abstraction, or of forming general concepts, is self-conscious and comprehends itself; that no animal employs lang
+uage; ...It is not the mere articulation which is our distinguishing character, for parrots and other birds possess this power. Nor is it the mere capacity of connecting definite sounds with definite ideas; for it is certain that some parrots, which have been taught to speak, connect unerringly words with things, and persons with events.*(2) The lower animals differ from man solely in his almost infinitely larger power of associating together the most diversified sounds and ideas; and this obviously depends on the high development of his mental powers.
+</text>
+</slide>
+<slide type="quote">
+<title>Chomsky</title>
+<img>Library/People/chomsky.jpg</img>
+<text>My primary purpose is to give some idea of the kinds of principles and the degree of complexity of structure that it seems plausible to assign to the language faculty as a species-specific, genetically determined property. --Reflections on Language (1975) p79</text>
+</slide>
+<slide type="basic">
+	<title>Alan Turing</title>
+<text>1912-1954
+saved the world from the nazis
+invented the electronic computer
+generally credited with positing the first computational theory of mind (although some think that McCollough and Pitts were the first)
+tragic figure, about whom almost everything is controversial.
+</text>
+</slide>
+<slide type="image">
+<img x="-400" y="-212.5">Library/People/busgroup.jpg</img>
+</slide>
+<slide type="image">
+<img x="-221" y="-330">Library/People/Turing.jpg</img>
+</slide>
+<slide type="image">
+<img>Library/People/sark.jpg</img>
+</slide>
+<slide type="image">
+<img x="-178" y="-113">Library/images/turinghockey.jpg</img>
+</slide>
+<slide type="basic">
+<text>Turing created the bombe in 1939, which allowed for routine decoding of messages sent by the German airforce.
+The German Navy, however, used a complicated table to generate the intitial 'keys' based on the date - in early 1941, Turing cracked this system, and predicted the table.  Turing's predictions were vindicated with the capture of a code sheet in 1942.</text></slide>
+<slide type="basic">
+<title>Death</title>
+<text>In 1952, his a former lover broke into, and then ransaked, his house.  When he reported the crime, he also reported the nature of their relationship, for which he was arrested and charged with gross indecency and sexual perversion.
+He was convicted (he offered no defense) and given the choice of incarceration or hormonal treatment. He chose the court-administered estrogen injections.
+On June 7th 1954 , he was found dead from a cyanide overdose (after eating an apple with cyanide dust on it).
+Most people believe it was sucide.  Others (including his mother) claim that it was an accident resulting from his carelessness in the lab. Still others claim that he intended this ambiguity, to spare his mother's feelings.
+</text>
+</slide>
+<slide type="basic">
+<title>The Church-Turing Thesis</title>
+<text>Church and Turing both hypothesized (independently) that the set of functions that were computable (calculable), in the intuitive sense, the same set as Godel's recursive functions and Turing's 'computable' functions.
+Turing went one step further and proposed a techinical definition of what it meant to be 'computable' or 'calculable'.  And this was: it could be processed by a turing machine - or, in other words - you could create a turing machine that would stop on the right answer.
+</text>
+</slide>
+<slide type="flash">
+<title>Soda Machine</title>
+<flash>Centre/sodaMachine.swf</flash>
+</slide>
+<slide type="flash">
+<title>Machine Table 1b</title>
+<flash x="-300">Centre/machineTable1b.swf</flash>
+</slide>
+<slide type="flash">
+<title>Machine Table 2</title>
+<flash x="-300">Centre/machineTable2.swf</flash>
+</slide>
+<slide type="flash">
+<title>Machine Table 3</title>
+<flash x="-300">Centre/machineTable3.swf</flash>
+</slide>
+<slide type="flash">
+<title>Machine Table 4</title>
+<flash x="-150">Centre/machineTableTemplate.swf</flash>
+</slide>
+<slide type="basic">
+<title>Stand-alone Flash</title>
+<text>SharedTM Add: Turing machine for addition of numbers represented as '011' and '0111'
+SharedTMSuccessor: Turing machine for successor function</text>
+</slide>
+<slide type="basic">
+<title>More</title>
+<text>These are simple machines. I've included in the zip/gzip/website universal machines - which basically means we write the machine table on the tape.
+Universal machines are capable of implementing ANY simple machine.</text>
+</slide>
+<slide type="flash">
+<flash x="-300" y="-200">Centre/SimpleParser0.swf</flash>
+</slide>
+<slide type="flash">
+<flash x="-300" y="-200">Centre/SimpleParser.swf</flash>
+</slide>
+<slide type="flash">
+<flash x="-300" y="-200">Centre/SimpleParser1.swf</flash>
+</slide>
+<slide type="flash">
+<flash x="-300" y="-200">Centre/SimpleParser1recursive.swf</flash>
+</slide>
+
+<slide type="basic">
+<title>The very idea</title>
+<text>While thinking about this special set of functions, a couple of things became clear. The most important of which is:
+it's productive: an infinite number of functions can be created from some simple, basic rules and parts.
+
+In short: that it can create an infinite set of well-formed strings, even though it is a finite automaton.
+</text>
+</slide>
+<slide type="basic">
+<title>Remember Descartes' Argument</title>
+<text>(1) No finite automata can create infinite things - either thoughts of infinity or an infinite set of thoughts.
+(2) bodies (and animals) are finite automata.
+(3) Minds know about infinity, and can create an infinite set of thoughts (through language).
+(4) Therefore, minds are not finite automata.
+(5) Therefore, minds are not bodies.
+</text>
+</slide>
+<slide type="basic">
+<title>Eureka!</title>
+<text>The very idea of AI - the hypothesis that we might call the 'Computational theory of mind' (typically accredited to Turing, 1950, but may have appeared before in McCollough and Pitts) is this:
+Maybe thoughts are just like this set. Why?
+Because (a) Turing machines show us that a finite machine can compute an infinite set 
+(b) the set of computable things is the set of functions that can be expressed as recursive functions (Church-Turing thesis) 
+(c) human language is expressible as a recursive function (Chomsky) and 
+(d) our minds operate on a 'language of thought' (Fodor).</text>
+</slide>
+</presentation>

@@ -1,0 +1,32 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.clickMe { 
+	align: center;
+	valign: middle;
+ }
+ 
+.objectTitle {
+	font-weight: bold;
+}
+.description {
+	border:thin;
+	border-color: #333333;
+	background-color: #CCCCCC;
+}
+
+.tableHead {
+	background-color: #000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-align: center;
+	color: #FFFFFF;
+	font-weight: bold;
+	}
+.tableSubHead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-align: center;
+	border-top:#000000;
+	border-top-style: solid;
+	border-top-width: thin;
+	font-weight: bold;
+	}
